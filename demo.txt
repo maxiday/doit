@@ -5,5 +5,11 @@
 
 Do it, contribute~
 1st practice
+<<<<<<< HEAD
 asd
+=======
+
+praggaadsfsadf
+
+>>>>>>> 0cf882b17ab4a5a3527d506a617b57164529989b
 ----------------------------------
